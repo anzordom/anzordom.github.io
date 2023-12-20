@@ -2990,7 +2990,7 @@
 	<param name="Пищевая и энергетическая ценность">Энергетическая ценность (калорийность) на 100 г продукта: 442 ккал</param>
     </offer>
 
-	<offer id="4927" available="false">
+	<offer id="4927" available="true">
         <url>https://shop.kavabulki.ua/product/4927</url>
         <price>135</price>
         <price_promo>81</price_promo>
@@ -2998,7 +2998,7 @@
         <categoryId>197</categoryId>
         <picture>https://picua.org/images/2020/06/23/6b67e2ae5cbab1805ea20863f5fcdea1.jpg</picture>
         <vendor>Хлібна країна</vendor>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
         <name>Печиво Поліно з родзинками Хлібна країна 1000 г.</name>
         <description><![CDATA[
 	<p>Пісочне тісто з додаванням ванілі та родзинок.</p><p>Склад: борошно, цукор, сіль, маргарин, ваніль, родзинки.</p><p>Ціна за 1 кг.</p>]]></description>
